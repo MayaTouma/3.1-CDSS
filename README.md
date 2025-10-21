@@ -1,7 +1,7 @@
 # CDSS Borstkanker – Borstsparende Chirurgie of Mastectomie
 
 Dit is een Clinical Decision Support System (CDSS) dat helpt bij het adviseren van patiënten over borstsparende chirurgie (BSC) of mastectomie.
-
+Auteurs: Maya Touma, Fatma Alkan en Sanae Zarraa
 ---
 
 # Vereisten
